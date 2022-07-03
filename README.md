@@ -1,7 +1,7 @@
 # Itwin + ONEclick LCA
  
 1. install [VS Code](https://code.visualstudio.com/download)
-2. insate [NOdeJS](https://nodejs.org/en/)
+2. insate [NodeJS](https://nodejs.org/en/)
 3. Create an [Imodel](https://developer.bentley.com/my-imodels). Please take a note of the Imodel & ITwin ID 
 4. Create a [new APP](https://developer.bentley.com/my-apps/). Please take a note of the Client ID 
 5. Open VS Code and in the terminal run [`npm i @itwin/one-click-lca-react`](#code) [`npm i @itwin/reports-config-widget-react`](#code)  [`npm i @itwin/grouping-mapping-widget`](#code). Keep an eye on the terminal to make sure they install correctly. Depending on internet speed this could take several minutes. 
