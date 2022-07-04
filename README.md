@@ -1,7 +1,7 @@
 # Itwin + ONEclick LCA
  
 1. install [VS Code](https://code.visualstudio.com/download)
-2. insate [NodeJS](https://nodejs.org/en/)
+2. insate [NodeJS](https://nodejs.org/en/) (Version 16)
 3. Create an [Imodel](https://developer.bentley.com/my-imodels). Please take a note of the Imodel & ITwin ID 
 4. Create a [new APP](https://developer.bentley.com/my-apps/). Please take a note of the Client ID 
 5. Clone or Download this Repository. 
