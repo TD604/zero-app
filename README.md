@@ -9,3 +9,10 @@
 7. In the Terminal run [`npm install`](#code)
 8. Save it 
 9. In the Terminal Run [`npm start`](#code). Please note this step might take several minutes, but it should open your default web browser on [`http://localhost:3000`](#code) if it doesnt paste this into you web browser. 
+
+
+Here are some usefuk links 
+
+[Grouping and Mapping](https://medium.com/@allowing_pullman_wasp_147/can-carbon-reporting-become-carbon-influencing-8c685b389233) 
+
+[Decluttering](https://medium.com/itwinjs/decluttering-your-digital-twin-9000bd017f50)
